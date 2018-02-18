@@ -25,7 +25,7 @@ SECRET_KEY = '#m-xdsn(8uqgc!f+(yuiw0ywdk(_uq+t31l%qr&d%u-w45e8l$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.somesite.com'] ###ajp
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com'] ###ajp
 
 
 # Application definition
